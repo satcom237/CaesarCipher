@@ -1,11 +1,10 @@
 /*******************************************************************************************
  *Program: 	Caesar cipher
- *Name: 	Sathya Ramanathan
+ *Author: 	Sathya Ramanathan
  *Date: 	12/19/2016
  *Description:	Takes user input for a message via text or a file and either encrypts or 
 		decrypts it using a shift cipher. Also asks for desired encryption key. 
-		Allows user to save encrypted message to a file. Includes error handling. 
- *Version:	[1] (Problems creating read() helper function)
+		Allows user to save encrypted message to a file. Includes error handling
  ******************************************************************************************/
 
 #include <stdio.h>
